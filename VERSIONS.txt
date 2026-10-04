@@ -1,0 +1,5 @@
+Ubuntu: Ubuntu 24.04.4 LTS
+Kubernetes:   gitVersion: v1.36.5
+kubeadm: v1.36.5
+containerd: containerd github.com/containerd/containerd/v2 2.2.1 
+Helm: v3.22.0+g144ca65
